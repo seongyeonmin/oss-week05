@@ -1,2 +1,2 @@
-hello
-hello
+Hello from my laptop
+안녕하세요
