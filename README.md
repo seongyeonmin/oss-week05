@@ -1,2 +1,2 @@
-# oss-week05
-week 5 practice
+Hello, World!
+안녕하세요
